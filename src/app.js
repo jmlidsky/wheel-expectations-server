@@ -6,6 +6,7 @@ const { CLIENT_ORIGIN } = require('./config');
 const helmet = require('helmet')
 const { NODE_ENV } = require('./config')
 const bikesRouter = require('./bikes/bikes-router')
+const partsRouter = require('./parts/parts-router')
 
 const app = express()
 
@@ -22,6 +23,7 @@ app.use(
 )
 
 app.use('/api/bikes', bikesRouter)
+app.use('/api/parts', partsRouter)
 
 app.get('/api/*', (req, res) => {
     res.send('Hello, world!')

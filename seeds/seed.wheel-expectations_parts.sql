@@ -2,7 +2,7 @@ INSERT INTO parts (part_name, part_description, status)
 VALUES
   (
     'Pedal',
-    'This is the part that a cyclist places their feet on. The pedal is attached to the crank which is the component that the cyclist rotates to spin the chain which in turn provides the bicycle’s power.',
+    'This is the part that a cyclist places their feet on. The pedal is attached to the crank which is the component that the cyclist rotates to spin the chain which in turn provides the bicycle''s power.',
     'Essential'
   ),
   (
@@ -42,12 +42,12 @@ VALUES
   ),
   (
     'Seat post',
-    'Component supporting and attaching the seat, inserted to variable depth into the seat tube to adjust the seat’s height.',
+    'Component supporting and attaching the seat, inserted to variable depth into the seat tube to adjust the seat''s height.',
     'Essential'
   ),
   (
     'Seat',
-    'Small triangular seat attached to the bicycle’s frame.',
+    'Small triangular seat attached to the bicycle''s frame.',
     'Essential'
   ),
   (
@@ -77,7 +77,7 @@ VALUES
   ),
   (
     'Rim',
-    'Metal circle constituting the wheel’s circumference and on which the tire is mounted.',
+    'Metal circle constituting the wheel''s circumference and on which the tire is mounted.',
     'Essential'
   ),
   (
@@ -147,7 +147,7 @@ VALUES
   ),
   (
     'Generator',
-    'Mechanism activated by the rear wheel, converting the wheel’s motion into electric energy to power the front and rear lights.',
+    'Mechanism activated by the rear wheel, converting the wheel''s motion into electric energy to power the front and rear lights.',
     'Optional'
   ),
   (
@@ -157,7 +157,7 @@ VALUES
   ),
   (
     'Tire pump',
-    'Device that compresses air and is used to inflate a bicycle tire’s inner tube.',
+    'Device that compresses air and is used to inflate a bicycle tire''s inner tube.',
     'Optional'
   ),
   (
