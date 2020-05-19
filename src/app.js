@@ -5,6 +5,7 @@ const cors = require('cors')
 const { CLIENT_ORIGIN } = require('./config');
 const helmet = require('helmet')
 const { NODE_ENV } = require('./config')
+const bikesRouter = require('./bikes/bikes-router')
 
 const app = express()
 
@@ -19,6 +20,8 @@ app.use(
         origin: CLIENT_ORIGIN
     })
 )
+
+app.use('/api/bikes', bikesRouter)
 
 app.get('/api/*', (req, res) => {
     res.send('Hello, world!')
