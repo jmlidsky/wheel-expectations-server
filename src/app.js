@@ -27,10 +27,6 @@ app.use('/api/bikes', bikesRouter)
 app.use('/api/parts', partsRouter)
 // app.use('/yelp', yelpRouter)
 
-app.get('/api/*', (req, res) => {
-    res.send('Hello, world!')
-})
-
 app.use(function errorHandler(error, req, res, next) {
     let response
     if (NODE_ENV === 'production') {
