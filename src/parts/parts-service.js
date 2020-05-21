@@ -3,6 +3,7 @@ const PartsService = {
         return knex
             .select('*')
             .from('parts')
+            .orderBy('part_name')
     }
 }
 
