@@ -2,12 +2,10 @@ require('dotenv').config()
 const express = require('express')
 const morgan = require('morgan')
 const cors = require('cors')
-const { CLIENT_ORIGIN } = require('./config');
 const helmet = require('helmet')
 const { NODE_ENV } = require('./config')
 const bikesRouter = require('./bikes/bikes-router')
 const partsRouter = require('./parts/parts-router')
-// const yelpRouter = require('./yelp/yelp-router')
 
 const app = express()
 
@@ -21,7 +19,6 @@ app.use(cors())
 
 app.use('/api/bikes', bikesRouter)
 app.use('/api/parts', partsRouter)
-// app.use('/yelp', yelpRouter)
 
 app.use(function errorHandler(error, req, res, next) {
     let response
