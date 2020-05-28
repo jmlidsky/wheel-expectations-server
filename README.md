@@ -1,26 +1,60 @@
-# Express Boilerplate!
+# Wheel Expectations
 
-This is a boilerplate project used for starting new projects!
+[LIVE APP](https://wheel-expectations-client.now.sh/)
 
-## Set up
+## Summary
 
-Complete the following steps to start a new project (NEW-PROJECT-NAME):
+This app was created to educate new and experienced riders: the rider who wants to find a list of local shops, the new rider that is looking for a new bike, but isn't informed about the rules of the road, and the experienced rider who needs to explain to a bike shop employee which part of their bike is malfunctioning.
 
-1. Clone this repository to your local machine `git clone BOILERPLATE-URL NEW-PROJECTS-NAME`
-2. `cd` into the cloned repository
-3. Make a fresh start of the git history for this project with `rm -rf .git && git init`
-4. Install the node dependencies `npm install`
-5. Move the example Environment file to `.env` that will be ignored by git and read by the express server `mv example.env .env`
-6. Edit the contents of the `package.json` to use NEW-PROJECT-NAME instead of `"name": "express-boilerplate",`
+## A Walk Through the App
 
-## Scripts
+**Home**
 
-Start the application `npm start`
+![home page](src/images/home_screenshot.png)
 
-Start nodemon for the application `npm run dev`
+**Bike Info**
 
-Run the tests `npm test`
+![bike info page](src/images/bike_info_screenshot.png)
 
-## Deploying
+**Parts List**
 
-When your new project is ready for deployment, add a new Heroku application with `heroku create`. This will make a new git remote called "heroku" and you can then `npm run deploy` which will push to this remote's master branch.
+![parts list page](src/images/parts_list_screenshot.png)
+
+**Safety & Etiquette**
+
+![safety & etiquette page](src/images/safety_screenshot.png)
+
+**Find Shops**
+
+![find shops page](src/images/find_shops_screenshot.png)
+
+## API Documentation
+
+**Request**
+
+```bash
+GET https://damp-reaches-21503.herokuapp.com/api
+```
+
+**Endpoints**
+
+Get a list of categorized bikes and their description.
+
+```bash
+/bikes
+```
+
+Get a list of essential and non-essential bike parts and their description.
+
+```bash
+/parts
+```
+
+## Technologies
+
+* React
+* CSS
+* Node
+* Express
+* PostgreSQL
+* Yelp Fusion API
