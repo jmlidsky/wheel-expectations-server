@@ -64,7 +64,7 @@ VALUES
     'Folding',
     'Folding bikes are ideal for those who need to travel with their bike, want a bike to keep on their boat or plane, or who live in small apartments and don''t have a lot of storage space. They''re also good for commuters who need to take their bike on a bus or train for part of their commute, or who don''t have a safe place to park their bike at work. Most folding bikes have smaller wheels, which makes the bike a little less efficient and trickier to handle than a standard bike.',
     'Specialty',
-    'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.verywellfit.com%2Fbest-folding-bikes-4174032&psig=AOvVaw0hxjvakNhvD834RwnnH5R-&ust=1618187779950000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDW_LD59O8CFQAAAAAdAAAAABA-'
+    'https://www.verywellfit.com/thmb/CpN-PDKIsmKRrHvMSkX15GIcE_M=/fit-in/1024x683/filters:no_upscale():max_bytes(150000):strip_icc()/ternlinkc8bike-2b63fd2411b744fda2729b6aa0a75637.jpg'
   ),
   (
     'Recumbent',
@@ -76,7 +76,7 @@ VALUES
     'Tandem',
     'Tandem bikes are ''bicycles built for two.'' They come in all styles, from cruiser tandems and hybrid tandems for the bike path or boardwalk, off-road mountain bike tandems, and high-performance road racing tandems.',
     'Specialty',
-    'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldcycletours.com%2Fblog%2F2018%2Ftandem-bike-riding-pros-and-cons&psig=AOvVaw2-pBwGOQN_ZsZ1Q6ascgrZ&ust=1618187932107000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCM6f359O8CFQAAAAAdAAAAABAw'
+    'https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2020/09/dolan-tdr1.jpg'
   ),
   (
     'Adult Tricycle',
