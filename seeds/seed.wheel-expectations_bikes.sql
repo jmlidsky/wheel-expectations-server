@@ -40,7 +40,7 @@ VALUES
     'Mountain',
     'Mountain bikes are design for riding rough off-road trails. They have flat or upright handlebars, and a very low gear range for pedaling up steep trails. Most mountain bikes have some type of shock absorbers or suspension. Mountain bikes with front suspension only are called hardtails; mountain bikes with both front and rear suspension are called full-suspension bikes or duallies. Mountain bikes with no suspension are called rigid. Mountain bikes can be outfitted for use as touring or commuting bikes, although they would not be as light or efficient as traditional touring or commuting bikes. Fat bikes, with their extremely wide tires, are included in the mountain bike category.',
     'Mountain',
-    'https://static.evanscycles.com/production/bikes/mountain-bikes/product-image/969-638/trek-marlin-6-2020-mountain-bike-blue-EV369255-5000-1.jpg'
+    'https://allprobicycles.com/2018/wp-content/uploads/2018/07/slash99.jpg'
   ),
   (
     'Hybrid',
@@ -64,7 +64,7 @@ VALUES
     'Folding',
     'Folding bikes are ideal for those who need to travel with their bike, want a bike to keep on their boat or plane, or who live in small apartments and don''t have a lot of storage space. They''re also good for commuters who need to take their bike on a bus or train for part of their commute, or who don''t have a safe place to park their bike at work. Most folding bikes have smaller wheels, which makes the bike a little less efficient and trickier to handle than a standard bike.',
     'Specialty',
-    'https://www.ternbicycles.com/sites/default/files/imagecache/wysiwyg_imageupload_colorbox_preset/users/uploads/42474/tn-byb_s11-pr.jpg'
+    'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.verywellfit.com%2Fbest-folding-bikes-4174032&psig=AOvVaw0hxjvakNhvD834RwnnH5R-&ust=1618187779950000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDW_LD59O8CFQAAAAAdAAAAABA-'
   ),
   (
     'Recumbent',
@@ -76,7 +76,7 @@ VALUES
     'Tandem',
     'Tandem bikes are ''bicycles built for two.'' They come in all styles, from cruiser tandems and hybrid tandems for the bike path or boardwalk, off-road mountain bike tandems, and high-performance road racing tandems.',
     'Specialty',
-    'https://static.evanscycles.com/production/bikes/tandems/product-image/969-638/ridgeback-velocity-2018-tandem-bike-grey-EV320438-7000-1.jpg'
+    'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldcycletours.com%2Fblog%2F2018%2Ftandem-bike-riding-pros-and-cons&psig=AOvVaw2-pBwGOQN_ZsZ1Q6ascgrZ&ust=1618187932107000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCM6f359O8CFQAAAAAdAAAAABAw'
   ),
   (
     'Adult Tricycle',
